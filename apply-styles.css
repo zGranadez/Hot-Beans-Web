@@ -11,8 +11,6 @@ header {
     color: white;
     padding: 10px 0;
     text-align: center;
-}
-
 nav .dropdown {
     position: relative;
     display: inline-block;
@@ -54,7 +52,6 @@ nav .dropdown:hover .dropdown-content {
 nav .dropdown:hover .dropbtn {
     background-color: #555;
 }
-
 main {
     padding: 20px;
 }
